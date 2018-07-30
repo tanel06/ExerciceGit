@@ -8,3 +8,4 @@ def affiche_result(a,b):
 
 affiche_result(4, 5)
 affiche_result(11, 10)
+affiche_result(3,3)
