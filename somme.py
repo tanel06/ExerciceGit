@@ -24,3 +24,4 @@ affiche_result(3,3, somme(3,3))
 affiche_result(7,3, somme_rec(7,3))
 affiche_result(somme(2,2), somme(5,5), somme_rec(4,10))
 
+
