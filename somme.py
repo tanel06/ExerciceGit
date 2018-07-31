@@ -19,4 +19,5 @@ affiche_result(4, 5, somme(4,5))
 affiche_result(11, 10, somme(11,10))
 affiche_result(3,3, somme(3,3))
 affiche_result(7,3, somme_rec(7,3))
+affiche_result(somme(2,2), somme(5,5), somme_rec(4,10))
 
